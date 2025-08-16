@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/flight-delay-compens",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a flight-delay-compens",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/flight-delay-compens.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://transpero.net/flight-delay-compensation/"
+    },
+    "homepage": "https://transpero.net/flight-delay-compensation/"
+}
